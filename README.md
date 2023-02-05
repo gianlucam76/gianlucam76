@@ -2,6 +2,7 @@
 
 [![Linkedin: gianlucamardente](https://img.shields.io/badge/-gianlucamardente-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gianlucamardente/)](https://www.linkedin.com/in/gianlucamardente/)
 [![Twitter: projectsveltos](https://img.shields.io/twitter/follow/projectsveltos?style=social)](https://twitter.com/projectsveltos)
+[![Medium Badge](https://img.shields.io/badge/-@gianluca.mardente-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@gianluca.mardente/)](https://medium.com/@gianluca.mardente)
 ![](https://visitor-badge.glitch.me/badge?page_id=gianluca.mardente)
 
 Nice to meet you! I am a Principal Engineer at Cisco Systems.
