@@ -7,7 +7,10 @@
 
 Nice to meet you! I am a Principal Engineer at Cisco Systems.
 
-I am also an open-source enthusiast and maintainer. Currently working on [projectsveltos](https://github.com/projectsveltos).
+I am also an open-source enthusiast and maintainer. 
+
+- 🔭 I’m currently working on [projectsveltos](https://github.com/projectsveltos)
+- 💬 Ask me about policy distribution, golang, Kubernetes, ginkgo/gomega, C++
 
 ![Gianluca's github stats](https://github-readme-stats.vercel.app/api?username=gianlucam76&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
