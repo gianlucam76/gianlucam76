@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi there 👋 I'm Gianluca
+
+[![Linkedin: gianlucamardente](https://img.shields.io/badge/-gianlucamardente-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gianlucamardente/)](https://www.linkedin.com/in/gianlucamardente/)
+[![Twitter: projectsveltos](https://img.shields.io/twitter/follow/projectsveltos?style=social)](https://twitter.com/projectsveltos)
+![](https://visitor-badge.glitch.me/badge?page_id=gianluca.mardente)
+
+Nice to meet you! I am a Principal Engineer at Cisco Systems.
+
+I am also an open-source enthusiast and maintainer. Currently working on [projectsveltos](https://github.com/projectsveltos).
+
+![Gianluca's github stats](https://github-readme-stats.vercel.app/api?username=gianlucam76&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
 
 <!--
 **gianlucam76/gianlucam76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
