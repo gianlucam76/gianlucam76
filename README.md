@@ -11,6 +11,8 @@ I am also an open-source enthusiast and maintainer.
 
 - 🔭 I’m currently working on [projectsveltos](https://github.com/projectsveltos)
 - 💬 Ask me about policy distribution, golang, Kubernetes, ginkgo/gomega, C++
+- 🏠 I work from home!
+- 👨‍👩‍👦‍👦 Husband, Dad, Software Developer
 
 ![Gianluca's github stats](https://github-readme-stats.vercel.app/api?username=gianlucam76&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
