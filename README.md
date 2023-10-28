@@ -13,6 +13,12 @@ I am also an open-source enthusiast and maintainer.
 - 🏠 I work from home!
 - 👨‍👩‍👦‍👦 Husband, Dad, Software Developer
 
+Languages and technologies I work with:
+
+🌟 Golang 🌟 C++ 🌟 C 
+
+🌟 Docker 🌟 Kubernetes 
+
 ![Gianluca's github stats](https://komarev.com/ghpvc/?username=gianlucam76)
 
 
