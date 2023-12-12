@@ -8,7 +8,7 @@ Nice to meet you! I am a Principal Engineer at Cisco Systems.
 
 I am also an open-source enthusiast and maintainer. 
 
-- 🔭 I’m currently working on [projectsveltos](https://github.com/projectsveltos)
+- 🔭 I’m currently working on [projectsveltos](https://github.com/projectsveltos) and [k8s-cleaner](https://github.com/gianlucam76/k8s-cleaner)
 - 💬 Ask me about policy distribution, golang, Kubernetes, ginkgo/gomega, C++
 - 🏠 I work from home!
 - 👨‍👩‍👦‍👦 Husband, Dad, Software Developer
